@@ -28,7 +28,7 @@ public class Tabungan {
             System.out.println("tabunganmu ulan iki wes " +jumlahBulanan);
             }
             jumlah2 = jumlah2+jumlahBulanan;
-        System.out.println("tabunganmu taun iki wes " +jumlah2+ " traktiran lah mat");
+        System.out.println("tabunganmu taun iki wes " +jumlah2+ " traktiran lah mat.");
         }
                         
     }
